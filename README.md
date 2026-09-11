@@ -46,3 +46,98 @@ Machine Learning
 Docker & DevOps
    ↓
 CI/CD
+---
+
+paste this:
+
+```markdown
+---
+
+## 🚀 Featured Projects
+
+### ❤️ Heart Disease Prediction
+
+Machine learning project for predicting heart disease using multiple ML algorithms.
+
+**Tech:** Python • Pandas • Scikit-learn • Streamlit • Docker • GitHub Actions
+
+---
+
+### 🤖 AI-Enhanced Data Management System
+
+An AI-focused data management project exploring intelligent data processing and management.
+
+**Tech:** Python • AI/ML • Data Management
+
+---
+
+### 📊 PandasLib
+
+Practice and exploration of data analysis using Python and Pandas.
+
+**Tech:** Python • Pandas • Jupyter Notebook
+
+---
+
+### 🧮 DSA
+
+My Data Structures & Algorithms practice repository.
+
+**Topics:**  
+`Arrays` • `Strings` • `Recursion` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Searching` • `Sorting`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu2835&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu2835&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Priyanshu2835&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu2835&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Priyanshu2835">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Add your LinkedIn link here -->
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Keep learning. Keep building. Keep improving."
+
+⭐ Thanks for visiting my profile!
+
+</div>
